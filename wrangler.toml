@@ -1,0 +1,11 @@
+name = "sorting_results"
+type = "javascript"
+
+[env.production]
+account_id = c1f0262f78884526af5d4ac30393443f
+workers_dev = true
+compatibility_flags = []
+
+[[env.production.kv_namespaces]]
+binding = sorting_results
+id = c1f0262f78884526af5d4ac30393443f
