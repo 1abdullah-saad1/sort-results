@@ -1,0 +1,82 @@
+[
+    {
+        "id": 245662,
+        "full_name": "محمد حازم محمود عيس الداودي",
+        "total_points": 24,
+        "graduation_average": 65.365,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 52945,
+        "full_name": "علي عامر احمد طه الطيار",
+        "total_points": 23,
+        "graduation_average": 69.034,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 31984,
+        "full_name": "محمد كاظم رجب علي عسكر",
+        "total_points": 22,
+        "graduation_average": 71.13,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 187372,
+        "full_name": "حسين لقمان زكي صديق الشريف",
+        "total_points": 21,
+        "graduation_average": 63.5,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 273287,
+        "full_name": "هناء حسين ياسين  اسماعيل جحيش",
+        "total_points": 20,
+        "graduation_average": 71.926,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 85781,
+        "full_name": "رغيد مشير زينل ايوب الطائي",
+        "total_points": 20,
+        "graduation_average": 57.223,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 98660,
+        "full_name": "سهى  سمير  حازم  خليل الصافي",
+        "total_points": 19,
+        "graduation_average": 71.775,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 137992,
+        "full_name": "عمر اكرم اسماعيل صالح الداوودي",
+        "total_points": 18,
+        "graduation_average": 71.129,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 87310,
+        "full_name": "احمد علي محمود رجب الشلال",
+        "total_points": 16,
+        "graduation_average": 63.297,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 115915,
+        "full_name": "حسين باسم حسين مرعي الشبكي",
+        "total_points": 14,
+        "graduation_average": 63.377,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    }
+]

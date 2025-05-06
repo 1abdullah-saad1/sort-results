@@ -1,0 +1,162 @@
+[
+    {
+        "id": 99262,
+        "full_name": "شهد فراس فائق يعقوب توفي",
+        "total_points": 30,
+        "graduation_average": 72.58,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل التخصص من (بكلوريوس\\علوم هندسة الزراعة\\الارشاد الزراعي ونقل التقنيات) إلى (بكلوريوس\\علوم هندسة الزراعة\\الارشاد الزراعي ونقل التقنيات) وذلك طبقاً للشهادة المرفقة"
+    },
+    {
+        "id": 144762,
+        "full_name": "رنا حنا متي ميخا قابو",
+        "total_points": 25,
+        "graduation_average": 68.488,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 245662,
+        "full_name": "محمد حازم محمود عيس الداودي",
+        "total_points": 24,
+        "graduation_average": 65.365,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 52945,
+        "full_name": "علي عامر احمد طه الطيار",
+        "total_points": 23,
+        "graduation_average": 69.034,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 31984,
+        "full_name": "محمد كاظم رجب علي عسكر",
+        "total_points": 22,
+        "graduation_average": 71.13,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 187372,
+        "full_name": "حسين لقمان زكي صديق الشريف",
+        "total_points": 21,
+        "graduation_average": 63.5,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 273287,
+        "full_name": "هناء حسين ياسين  اسماعيل جحيش",
+        "total_points": 20,
+        "graduation_average": 71.926,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 190193,
+        "full_name": "ريفون  صليوة  ججو  متي  الزيباري ",
+        "total_points": 20,
+        "graduation_average": 60.793,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (60.793) إلى (60.793)"
+    },
+    {
+        "id": 251069,
+        "full_name": "بشار بسام الياس خضر السمعان",
+        "total_points": 20,
+        "graduation_average": 59.834,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 205510,
+        "full_name": "بسام فرحان باكوز حنا ككي",
+        "total_points": 20,
+        "graduation_average": 59.832,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 85781,
+        "full_name": "رغيد مشير زينل ايوب الطائي",
+        "total_points": 20,
+        "graduation_average": 57.223,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 98660,
+        "full_name": "سهى  سمير  حازم  خليل الصافي",
+        "total_points": 19,
+        "graduation_average": 71.775,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 137992,
+        "full_name": "عمر اكرم اسماعيل صالح الداوودي",
+        "total_points": 18,
+        "graduation_average": 71.129,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 169537,
+        "full_name": "رغيد وسام يعقوب يوسف حنو",
+        "total_points": 16,
+        "graduation_average": 66.595,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (66.595) إلى (66.595)"
+    },
+    {
+        "id": 87310,
+        "full_name": "احمد علي محمود رجب الشلال",
+        "total_points": 16,
+        "graduation_average": 63.297,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 246082,
+        "full_name": "سانت حبيب كرومي باكوس حبش",
+        "total_points": 15,
+        "graduation_average": 61.462,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 115915,
+        "full_name": "حسين باسم حسين مرعي الشبكي",
+        "total_points": 14,
+        "graduation_average": 63.377,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 73283,
+        "full_name": "مارك حبيب كرومي باكوس حبش",
+        "total_points": 13,
+        "graduation_average": 66.727,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 194537,
+        "full_name": "جميل جورج جميل حنا ياكو",
+        "total_points": 12,
+        "graduation_average": 59.586,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل التخصص من (بكلوريوس\\علوم هندسة الزراعة\\الانتاج الحيواني) إلى (بكلوريوس\\علوم هندسة الزراعة\\الانتاج الحيواني) وذلك طبقاً للشهادة المرفقة"
+    },
+    {
+        "id": 251095,
+        "full_name": "شوان عجاج  حسن حمو دناي",
+        "total_points": 10,
+        "graduation_average": 53.6597,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    }
+]

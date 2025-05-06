@@ -1,0 +1,802 @@
+[
+    {
+        "id": 171274,
+        "full_name": "صالح احمد حسن حمادي ال يوسف",
+        "total_points": 24,
+        "graduation_average": 70.973,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 232646,
+        "full_name": "غازي حسن محمد حسين ال عبدالله",
+        "total_points": 24,
+        "graduation_average": 70.177,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 78866,
+        "full_name": "حنين سعدالله احمد حسين شمام",
+        "total_points": 24,
+        "graduation_average": 70.021,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 211237,
+        "full_name": "جاسم تحسين عبدالله احمد الدلو",
+        "total_points": 24,
+        "graduation_average": 70,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 253998,
+        "full_name": "مروان فلاح حسن ملاش اللهيبي",
+        "total_points": 24,
+        "graduation_average": 69.989,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 242851,
+        "full_name": "وليد عبدالرحمن عبدالله احمد الحمداني",
+        "total_points": 24,
+        "graduation_average": 69.974,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 3361,
+        "full_name": "علي ياسين محمد ابراهيم عبوش",
+        "total_points": 24,
+        "graduation_average": 69.903,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 122001,
+        "full_name": "الاء حسن يوسف ابراهيم الجبوري",
+        "total_points": 24,
+        "graduation_average": 69.87,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 97833,
+        "full_name": "نجوى  محسن  عباس  حسن  فرج ",
+        "total_points": 24,
+        "graduation_average": 69.847,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 264873,
+        "full_name": "علي صفوك عطيه حسين اللهيبي",
+        "total_points": 24,
+        "graduation_average": 69.846,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 244243,
+        "full_name": "جوان زياد فاضل محمود النجار",
+        "total_points": 24,
+        "graduation_average": 69.835,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (69.835) إلى (69.835)"
+    },
+    {
+        "id": 186393,
+        "full_name": "بدر سالم شلو هويت العبيد",
+        "total_points": 24,
+        "graduation_average": 69.778,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (69.778) إلى (69.778)"
+    },
+    {
+        "id": 107715,
+        "full_name": "نوار اسماعيل مناور مضحي العبيد",
+        "total_points": 24,
+        "graduation_average": 69.726,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 189563,
+        "full_name": "جبر عبدالستار جبر حمود العلي",
+        "total_points": 24,
+        "graduation_average": 69.72,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 127756,
+        "full_name": "شاكر محمود خلف عبد العبد",
+        "total_points": 24,
+        "graduation_average": 69.718,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 175664,
+        "full_name": "صفاء طلال ذنون يونس البيرقدار",
+        "total_points": 24,
+        "graduation_average": 69.715,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 249414,
+        "full_name": "مجبل  خلف  مصطفى  خضر  الخفاجي",
+        "total_points": 24,
+        "graduation_average": 69.714,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 262363,
+        "full_name": "مروه محمد طه  اسماعيل  ــــــــــــ",
+        "total_points": 24,
+        "graduation_average": 69.709,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 206164,
+        "full_name": "محمد علي خلف ساجر النمراوي",
+        "total_points": 24,
+        "graduation_average": 69.685,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 51580,
+        "full_name": "احمد  عوده  عطو  محمد  الزومان ",
+        "total_points": 24,
+        "graduation_average": 69.64,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 77339,
+        "full_name": "شاكر محمود حميد هزاع مطاوحي",
+        "total_points": 24,
+        "graduation_average": 69.635,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 201213,
+        "full_name": "عبدالهادي صالح ابراهيم حديد اللهيبي",
+        "total_points": 24,
+        "graduation_average": 69.626,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 78202,
+        "full_name": "عمار ناظم مراد ظاهر الراوي",
+        "total_points": 24,
+        "graduation_average": 69.623,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 284465,
+        "full_name": "عمر  احمد ابراهيم محمود الخضير",
+        "total_points": 24,
+        "graduation_average": 69.584,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 43661,
+        "full_name": "أمير  جاسم محمد  نهير الجبوري",
+        "total_points": 24,
+        "graduation_average": 69.575,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 251758,
+        "full_name": "احمد ادريس جرجيس خليل الشبكي",
+        "total_points": 24,
+        "graduation_average": 69.54,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 238335,
+        "full_name": "علي حسن  جواد  علي اغويان ",
+        "total_points": 24,
+        "graduation_average": 69.525,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 119674,
+        "full_name": "نزهان فياض عبد عبدالله الحربي",
+        "total_points": 24,
+        "graduation_average": 69.5,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 147610,
+        "full_name": "مهربان زينل محمود محمد بابا",
+        "total_points": 24,
+        "graduation_average": 69.469,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 210029,
+        "full_name": "احمد اكرم  حسن احمد الصميدعي",
+        "total_points": 24,
+        "graduation_average": 69.448,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 198979,
+        "full_name": "احمد مصطفى احمد مصطفى المحمود",
+        "total_points": 24,
+        "graduation_average": 69.42,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 152412,
+        "full_name": "عمار غازي خليل ابراهيم الكاكئي",
+        "total_points": 24,
+        "graduation_average": 69.355,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 238802,
+        "full_name": "سفيان قاسم حمزه عسكر الخاتوني",
+        "total_points": 24,
+        "graduation_average": 69.326,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 86980,
+        "full_name": "يوسف نجم يوسف عبدالكريم المحراب",
+        "total_points": 24,
+        "graduation_average": 69.313,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 238008,
+        "full_name": "خالد احمد ابراهيم حسين الفنش",
+        "total_points": 24,
+        "graduation_average": 69.263,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 77994,
+        "full_name": "محسن جاسم محمد جلعو الطائي",
+        "total_points": 24,
+        "graduation_average": 69.199,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 228623,
+        "full_name": "محمد شعبان احمد عسكر الربيعي ",
+        "total_points": 24,
+        "graduation_average": 69.198,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 92926,
+        "full_name": "رغدة ياسر اسماعيل  محمد علي كدحي",
+        "total_points": 24,
+        "graduation_average": 69.154,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 138660,
+        "full_name": "زيد  سالم كعود  عكله الحارث",
+        "total_points": 24,
+        "graduation_average": 69.128,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 218639,
+        "full_name": "زينه طالب مزرب سليمان ابوزيد",
+        "total_points": 24,
+        "graduation_average": 69.115,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 206338,
+        "full_name": "محمد سالم  حسين  عسكر  الجبوري ",
+        "total_points": 24,
+        "graduation_average": 69.081,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 66172,
+        "full_name": "يونس  حازم  ابراهيم  حسين ساداني",
+        "total_points": 24,
+        "graduation_average": 69.049,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 47129,
+        "full_name": "ذكاء بارق محمد مولود شريف الصائغ",
+        "total_points": 24,
+        "graduation_average": 68.967,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 188701,
+        "full_name": "محسن حمد صالح ضحوي ضحوي",
+        "total_points": 24,
+        "graduation_average": 68.951,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 182605,
+        "full_name": "خضر عبدالعزيز حمد خضر الخفاجي",
+        "total_points": 24,
+        "graduation_average": 68.909,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 200525,
+        "full_name": "صلاح عدنان بلال حسن الحنش",
+        "total_points": 24,
+        "graduation_average": 68.9042,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 265433,
+        "full_name": "محمد  اسماعيل خضر حمو ال عيسى",
+        "total_points": 24,
+        "graduation_average": 68.88,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 232506,
+        "full_name": "زهور جمال عارف قاسم الفندو",
+        "total_points": 24,
+        "graduation_average": 68.878,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 176868,
+        "full_name": "ياسر محمد احمد عبدالقادر سلي",
+        "total_points": 24,
+        "graduation_average": 68.874,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 5444,
+        "full_name": "حسن علي حسن علي الحسين",
+        "total_points": 24,
+        "graduation_average": 68.836,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 284457,
+        "full_name": "سهى صابر محيد بيرداود اومزيار",
+        "total_points": 24,
+        "graduation_average": 68.824,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 275142,
+        "full_name": "أحمد علي عمر صالح صالح",
+        "total_points": 24,
+        "graduation_average": 68.7804,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 81854,
+        "full_name": "إسراء  مؤيد عبدالله  يحيى شيال العلم",
+        "total_points": 24,
+        "graduation_average": 68.743,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 70502,
+        "full_name": "شاهر مخلف اكوير صالح الشمري",
+        "total_points": 24,
+        "graduation_average": 68.642,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 224092,
+        "full_name": "هوار جبر صالح حسن العكاب",
+        "total_points": 24,
+        "graduation_average": 68.537,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 132852,
+        "full_name": "عقيل احمد ابراهيم حمو الخليفه",
+        "total_points": 24,
+        "graduation_average": 68.536,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 164502,
+        "full_name": "رباب يوسف حسين يونس بابا",
+        "total_points": 24,
+        "graduation_average": 68.52,
+        "status": "غير مرشح",
+        "last_auditor_notes": "تم تعديل التخصص من (بكلوريوس\\التربية\\العلوم التربوية والنفسية) إلى (بكلوريوس\\التربية\\العلوم التربوية والنفسية) وذلك طبقاً للشهادة المرفقة"
+    },
+    {
+        "id": 157019,
+        "full_name": "سكينه  خالد  عاشور حمزه الخيشي ",
+        "total_points": 24,
+        "graduation_average": 68.346,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 93939,
+        "full_name": "هبه فارس محمود عثمان الخلف",
+        "total_points": 24,
+        "graduation_average": 68.277,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 256609,
+        "full_name": "حسن  احمد حسين يونس ال شرو",
+        "total_points": 24,
+        "graduation_average": 68.267,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (68.267) إلى (68.267)"
+    },
+    {
+        "id": 289125,
+        "full_name": "يونس صالح عثمان موسى موسى",
+        "total_points": 24,
+        "graduation_average": 68.264,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 186421,
+        "full_name": "علي صالح محمدكامل حمزه العلي",
+        "total_points": 24,
+        "graduation_average": 68.16,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 275034,
+        "full_name": "ساجد معيوف حامد مالو الجحيشي",
+        "total_points": 24,
+        "graduation_average": 68.142,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 274657,
+        "full_name": "عباس عبدالخالق قمبر علي درسن ال درسن",
+        "total_points": 24,
+        "graduation_average": 68.088,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 185277,
+        "full_name": "الياس خضر حمد معيوف انعيم",
+        "total_points": 24,
+        "graduation_average": 68.037,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 51475,
+        "full_name": "عدنان طه  محمد  احمد البوسالم",
+        "total_points": 24,
+        "graduation_average": 68.013,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 233929,
+        "full_name": "روى يونس نصرالله حيدر العطار",
+        "total_points": 24,
+        "graduation_average": 68,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 248159,
+        "full_name": "علي  ابراهيم محمد احمد الخفاجي ",
+        "total_points": 24,
+        "graduation_average": 67.988,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 289770,
+        "full_name": "محمد محمود صالح خضر السيفو",
+        "total_points": 24,
+        "graduation_average": 67.963,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 47670,
+        "full_name": "محمد غسان سالم ايوب الرحو",
+        "total_points": 24,
+        "graduation_average": 67.953,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 216134,
+        "full_name": "سهى فهمي صالح محي الهلالي",
+        "total_points": 24,
+        "graduation_average": 67.93,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 211905,
+        "full_name": "حازم موسى محمود حسن ابو زيد",
+        "total_points": 24,
+        "graduation_average": 67.907,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 221978,
+        "full_name": "مصطفى ذنون حسن يونس المعماري",
+        "total_points": 24,
+        "graduation_average": 67.862,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 228803,
+        "full_name": "لؤي محمد حسين ملا موسى",
+        "total_points": 24,
+        "graduation_average": 67.835,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 290951,
+        "full_name": "احمد سالم عبد محمد علي الحميد",
+        "total_points": 24,
+        "graduation_average": 67.76,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 27868,
+        "full_name": "الحان رعد قاسم محمد السراج",
+        "total_points": 24,
+        "graduation_average": 67.69,
+        "status": "غير مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (67.69) إلى (67.69)"
+    },
+    {
+        "id": 170685,
+        "full_name": "انس مالك احميد محمد الجبوري",
+        "total_points": 24,
+        "graduation_average": 67.689,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 234313,
+        "full_name": "صابرين داود سليمان الياس ايوان",
+        "total_points": 24,
+        "graduation_average": 67.598,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 149957,
+        "full_name": "جلال علي احمد عباس العباس",
+        "total_points": 24,
+        "graduation_average": 67.56,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 59618,
+        "full_name": "عبدالرحمن عبدالله  عيسى حسين البوخالق",
+        "total_points": 24,
+        "graduation_average": 67.557,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 207810,
+        "full_name": "رسل ناطق طه مصطفى الاطرقچي",
+        "total_points": 24,
+        "graduation_average": 67.539,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 175581,
+        "full_name": "عمر  نواف حسين علي الفنش",
+        "total_points": 24,
+        "graduation_average": 67.538,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 125515,
+        "full_name": "نوزاد  فتحي  عمر  مولود خوشناو",
+        "total_points": 24,
+        "graduation_average": 67.52,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 220563,
+        "full_name": "عباس  عز الدين  حسين  علي الزاري ",
+        "total_points": 24,
+        "graduation_average": 67.514,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 211763,
+        "full_name": "كهلان مشعل جاسم محمد الجنابي",
+        "total_points": 24,
+        "graduation_average": 67.496,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 182670,
+        "full_name": "احمد حسين احمد حسين الكوران",
+        "total_points": 24,
+        "graduation_average": 67.458,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 117066,
+        "full_name": "يسرى يوسف محمد عمر الخلف",
+        "total_points": 24,
+        "graduation_average": 67.45,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 164049,
+        "full_name": "ليث احمد جمعة  محمد  الجبوري",
+        "total_points": 24,
+        "graduation_average": 67.324,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (67.324) إلى (67.324)"
+    },
+    {
+        "id": 236053,
+        "full_name": "احمد محمد علي حسين الحجي",
+        "total_points": 24,
+        "graduation_average": 67.323,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 194015,
+        "full_name": "سيف سعد محمود حسين الجحيشي",
+        "total_points": 24,
+        "graduation_average": 67.237,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 109726,
+        "full_name": "هيثم محمد صالح هايس المشهداني",
+        "total_points": 24,
+        "graduation_average": 67.182,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 102713,
+        "full_name": "محمود عبدالله محمد شحاذه اللهيبي",
+        "total_points": 24,
+        "graduation_average": 67.16,
+        "status": "غير مرشح",
+        "last_auditor_notes": "تم تعديل التخصص من (بكلوريوس\\التربية\\العلوم التربوية والنفسية) إلى (بكلوريوس\\التربية\\العلوم التربوية والنفسية) وذلك طبقاً للشهادة المرفقة"
+    },
+    {
+        "id": 246707,
+        "full_name": "عمر شكر محمود اسماعيل المصطفى",
+        "total_points": 24,
+        "graduation_average": 67.155,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 281897,
+        "full_name": "عمر حسين اسماعيل حمزة هورج",
+        "total_points": 24,
+        "graduation_average": 67.155,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 168322,
+        "full_name": "احمد موفق نورالدين عبدالعزيز سيدوش",
+        "total_points": 24,
+        "graduation_average": 67.13,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 233536,
+        "full_name": "براء ميسر علاوي امفضي البجاري",
+        "total_points": 24,
+        "graduation_average": 67,
+        "status": "غير مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 73415,
+        "full_name": "صدام حسين حسن حسين العبدالله",
+        "total_points": 24,
+        "graduation_average": 66.98,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 148358,
+        "full_name": "باسم مرعي حسن محمد سيش",
+        "total_points": 24,
+        "graduation_average": 66.953,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 292474,
+        "full_name": "موسى عزالدين موسى محمود العبادي",
+        "total_points": 24,
+        "graduation_average": 66.936,
+        "status": "مرشح",
+        "last_auditor_notes": "تم تعديل معدل التخرج من (66.936) إلى (66.936)"
+    },
+    {
+        "id": 86985,
+        "full_name": "عبدالله محمد خلف علي ال بلسم",
+        "total_points": 24,
+        "graduation_average": 66.881,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 178919,
+        "full_name": "محمود يحيى محمود علي البجاري",
+        "total_points": 27,
+        "graduation_average": 79.781,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 188368,
+        "full_name": "غانم فلاح صلاح الدين حمو الحلاب",
+        "total_points": 24,
+        "graduation_average": 71.8,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 4236,
+        "full_name": "محمود عبد عزيز حسن ساره",
+        "total_points": 22,
+        "graduation_average": 73.101,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 116605,
+        "full_name": "مصطفى هادي جرجيس عبد الله سعيد",
+        "total_points": 19,
+        "graduation_average": 73.022,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    },
+    {
+        "id": 106352,
+        "full_name": "رندا ثامر علي حمو الحمو",
+        "total_points": 17,
+        "graduation_average": 67.307,
+        "status": "مرشح",
+        "last_auditor_notes": null
+    }
+]
